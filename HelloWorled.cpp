@@ -6,6 +6,9 @@ class HelloJava {
         void PrintHelloWorld() {
             cout << "HelloWorld";
         }
+        void nothing() {
+            cout << "What else";
+        }
 }
     
 };
