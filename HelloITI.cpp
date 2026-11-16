@@ -1,10 +1,13 @@
 #include <iostream>
 using namespace std;
 
-class HelloWorld{
+class HelloITI{
     public:
            void PrintHelloWorld(){
             cout<< "HelloITI";
+           }
+           void printHellogit() {
+               cout << "Hello Git";
            }
 };
 
