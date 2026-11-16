@@ -9,6 +9,10 @@ class HelloITI{
            void printHellogit() {
                cout << "Hello Git";
            }
+
+           void nothing() {
+               cout << "What else";
+           }
 };
 
 int main(){
