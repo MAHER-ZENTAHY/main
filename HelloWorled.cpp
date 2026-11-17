@@ -14,7 +14,7 @@ class HelloJava {
 };
 
 int main() {
-    //hello from Online login
+    //end from Online login
    PrintHelloWorld();
    return 0;
 
